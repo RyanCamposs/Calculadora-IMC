@@ -43,10 +43,12 @@ label {
 
 
 .buttom {
-    width: 200px;
-    height: 60px;
-    background-color: rgb(0, 0, 0);
+    width: 400px;
+    height: 40px;
+    background-color: rgb(65, 65, 65);
     color: white;
+    font-weight: bold;
+    font-size: 20px;
     border-radius: 10px;
 }
 
